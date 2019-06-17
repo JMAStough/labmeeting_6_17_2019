@@ -7,7 +7,7 @@ If you don't know how to operate the command line in UNIX, or if you aren't sure
    
 This tutorial is designed to be used within this repository.Before starting with the instructions below, 
 download this repository into a convenient location on your computer using the command line: 
-`git pull https://github.com/JMAStough/labmeeting_6_17_2019`
+`git clone https://github.com/JMAStough/labmeeting_6_17_2019`
 You can then change directory into this folder 
 `cd labmeeting_6_17_2019` 
 and begin the instructions below.

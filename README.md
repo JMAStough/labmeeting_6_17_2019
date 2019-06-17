@@ -1,13 +1,17 @@
-#Using Conda for Reproducible Research
+# Using Conda for Reproducible Research
 
-##Installing Conda
+## Installing Conda
+
 Blah blah blah blah
 
-###Linux
+### Linux
+
 Blah blah
 
-###Max
+### Mac
+
 Blah
 
-###Windows
+### Windows
+
 Blahblah blah

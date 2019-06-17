@@ -1,0 +1,5 @@
+name: labmeeting_conda
+channels:
+  - defaults
+prefix: /home/stoughj/miniconda3/envs/labmeeting_conda
+

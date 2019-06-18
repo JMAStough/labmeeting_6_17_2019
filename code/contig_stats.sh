@@ -5,6 +5,12 @@ contig_qc () {
         stats.sh in=data/"$1".fasta\
                 gchist=data/"$1"_assembly_gchist.tsv\
                 minscaf=1000 n90=t extended=t format=3 gcformat=1 overwrite=t > data/"$1"_contig_qc.tsv
+	if [ "$?" = "0" ]; then
+		echo "Running contig stats on $1"
+	else
+		echo "Something went wrong..."
+		exit 1
+	fi
 
 }
 

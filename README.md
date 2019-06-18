@@ -20,7 +20,8 @@ Mac - ```curl -O https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x8
 Linux - ```wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh```
 
 Then, you'll need to run the installation using:
-```bash Miniconda3-latest-Linux-x86_64.sh```
+Mac - ```bash Miniconda3-latest-MacOSX-x86_64.sh```
+Linux - ```bash Miniconda3-latest-Linux-x86_64.sh```
 
 Follow the prompts on the installer screens and accept the default settings. You can change these settings later 
 if you don't like them.
